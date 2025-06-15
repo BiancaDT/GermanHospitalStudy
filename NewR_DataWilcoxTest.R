@@ -15,11 +15,6 @@ source("scripts/utils.R")
 #Then you can Load and 'clean' your data
 #Stem data that is And then make your derrived data
 
-#Then you usally have your: Exploratory Data Analysis which we have to keep very minimal and summeriezed (unlike it is in the first draft i send)
-
-#[22:43, 6/1/2025] Claes Lindhardt: Then statistical model: most important part
-#[22:43, 6/1/2025] Claes Lindhardt: I. E:
-#  [22:43, 6/1/2025] Claes Lindhardt: # Fit a linear model
 #  model <- lm(outcome ~ group + age, data = clean_data)
   
   # Model summary
